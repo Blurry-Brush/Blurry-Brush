@@ -3,6 +3,7 @@ Hi 👋 My name is Yuvraj Singh
 
 Full stack Web Developer
 ------------------------
+![giphy](https://user-images.githubusercontent.com/89006056/164715413-066e9b1f-39d7-4038-8f0d-26d79bc92f6d.gif)
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [yuwuxj@gmail.com](mailto:yuwuxj@gmail.com)
