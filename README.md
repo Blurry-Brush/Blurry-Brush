@@ -4,7 +4,7 @@ Hi 👋 My name is Yuvraj Singh
 Full stack Web Developer
 ------------------------
 * 🌍  I'm based in New Delhi, India
-* ✉️  You can contact me at [yuwuxj@gmail.com](mailto:yuvrajsingh1704@gmail.com)
+* ✉️  You can contact me at [yuvrajsingh1704@gmail.com](mailto:yuvrajsingh1704@gmail.com)
 * 🧠  I'm learning Full Stack Developement
 
 
