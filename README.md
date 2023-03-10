@@ -6,7 +6,7 @@ Full stack Web Developer
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [yuvrajsingh1704@gmail.com](mailto:yuvrajsingh1704@gmail.com)
 * 🧠  I'm learning Full Stack Developement
-* <a href="https://portfolio-blurry-brush.vercel.app" target="_blank"/> Visit my website </a>
+* <a href="https://portfolio-blurry-brush.vercel.app" target="_blank"/> Visit my website </a> (under construction)
 
 
 ### Skills
